@@ -1,0 +1,26 @@
+# Source data and local extracts
+data/
+*.xlsx
+*.xls
+*.csv
+*.sav
+*.dta
+*.rds
+*.RData
+
+# Local outputs and generated files
+*.png
+*.pdf
+*.html
+*.docx
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+renv/library/
+renv/staging/
+.DS_Store
+Thumbs.db
+
+# Local software-environment capture
+sessionInfo.txt
