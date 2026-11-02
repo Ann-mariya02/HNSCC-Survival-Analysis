@@ -67,6 +67,4 @@ This repository packaging separates package installation from the analysis scrip
 
 This is not clinical advice and is not a validated clinical decision-support tool.
 
-## Data and research permissions
 
-Keep this repository private unless your supervisor and the relevant institution explicitly approve public sharing of the code and documentation. Do not upload patient-level data or confidential research materials.
